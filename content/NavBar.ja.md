@@ -1,4 +1,4 @@
 ---
-brand: "Start Bootstrap"
+brand: "Horumon Teacher"
 menuText: "メニュー "
 ---

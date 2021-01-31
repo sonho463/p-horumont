@@ -1,13 +1,13 @@
 ---
-anchor: "沿革"
-header: "沿革"
-subheader: "あなたは偶然断然その持通りについて事のためにまかり出ですた。"
+anchor: "略歴"
+header: "略歴"
+subheader: "コンピュータに関わるもの。案件を取る段になったらもう少し訂正をしようと思っています。"
 timeline: [
   {
     imageFileName: "about/1.jpg",
-    header: "2009年-2011年",
-    subheader: "Our Humble Beginnings",
-    content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。"
+    header: "1982年小学校6年生",
+    subheader: "はじめてのコンピュータMSX",
+    content: "当時大流行のファミコンを親にねだるも、「ゲームしかできんようなものはだめ」ということで、当時ブームだったMSXを買ってもらう。最初はゲームばかりだったが、次第に飽きて本を買ってきてBASICの写経を楽しむ。"
   },
   {
     imageFileName: "about/2.jpg",

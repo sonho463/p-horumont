@@ -8,10 +8,10 @@ teamMember: [
     imageFileName: "team/1.jpg",
     header: "Kay Garland",
     subheader: "Lead Designer",
-    social: {
-      twitter: "#",
-      facebook: "#",
-      linkedin: "#"
+      social: {
+      # twitter: "#",
+      # facebook: "#",
+      # medium: "#"
     }
   },
   {
@@ -19,9 +19,9 @@ teamMember: [
     header: "Larry Parker",
     subheader: "Lead Marketer",
     social: {
-      twitter: "#",
-      facebook: "#",
-      medium: "#"
+      # twitter: "#",
+      # facebook: "#",
+      # medium: "#"
     }
   },
   {
@@ -29,9 +29,9 @@ teamMember: [
     header: "Diana Pertersen",
     subheader: "Lead Developer",
     social: {
-      twitter: "#",
-      facebook: "#",
-      medium: "#"
+      # twitter: "#",
+      # facebook: "#",
+      # medium: "#"
     }
   },
 ]

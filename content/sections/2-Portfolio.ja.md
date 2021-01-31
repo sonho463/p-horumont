@@ -1,14 +1,14 @@
 ---
 anchor: "ポートフォリオ"
 header: "ポートフォリオ"
-subheader: "あなたは偶然断然その持通り"
+subheader: "これまでの実績です。フリーランスになるまでに、サイト模写をできるだけ多く仕上げたいです。"
 portfolios: [
   {
     imageFileName: "portfolio/01-thumbnail.jpg",
     imageFileNameDetail: "portfolio/01-full.jpg",
-    header: "Threads",
-    subheader: "イラストレーション",
-    content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。受売へ折っだっのはもし今をもうないないない。",
+    header: "TECHMEETS",
+    subheader: "サイト模写",
+    content: "TECHMEETSさんが提供してくれたデザインカンプをもとにコーディング。ハンバーガーメニュー実装、レスポンシブにも対応しました。",
     extraInfo: ["日付： January 2017", "クライエント: Threads", "カテゴリ: Illustration"]
   },
   {
